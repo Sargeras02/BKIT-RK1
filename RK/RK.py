@@ -1,6 +1,3 @@
-# 9     Операционная система <-> Компьютер
-# используется для сортировки
-
 from operator import itemgetter
 
 class OS:
